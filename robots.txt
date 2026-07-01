@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Sitemap: https://reshwinjebakumar-del.github.io/git-project/sitemap
